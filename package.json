@@ -1,0 +1,27 @@
+{
+  "name": "js-ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --recursive --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radpet/js-ds.git"
+  },
+  "author": "Radoslav Petkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radpet/js-ds/issues"
+  },
+  "homepage": "https://github.com/radpet/js-ds#readme"
+}
